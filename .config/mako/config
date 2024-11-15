@@ -1,0 +1,12 @@
+# Colors
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#f5c2e7
+border-radius=10
+progress-color=over #313244
+
+[urgency=high]
+border-color=#fab387
+
+# Font Configuration
+font=JetBrains Mono Nerd Font 10
